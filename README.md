@@ -1,5 +1,8 @@
 To use the EDA.ipynb file, please first edit the configs/config_seamer.py file with the correct path to the dataset.
 
+## Sample Gesture Data Files
+You can find some sample gesture data files in this folder on google drive (link to the entire dataset is available in the paper): 
+[Sample Gesture Data Files](https://drive.google.com/drive/folders/1Sy7X_XV7g2EYcVnOUyrpYP4QF1d5jpDi?usp=sharing)
 
 ## License and Citation
 The code in this repository is free and can as desired under Creative Commons Attribution 4.0. 
@@ -21,3 +24,11 @@ DOI = {10.3390/data6050046}
 }
 
 ```
+
+## Link to the Paper:
+[IntelliRehabDS (IRDS)—A Dataset of Physical Rehabilitation Movements](https://www.mdpi.com/2306-5729/6/5/46)
+
+## Gesture Details:
+![Gesture Details](https://github.com/nsadawi/intellirehabds/raw/master/GestureDetails.png "Gesture Details")
+
+
