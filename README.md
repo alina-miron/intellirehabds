@@ -27,3 +27,8 @@ DOI = {10.3390/data6050046}
 
 ## Link to the Paper:
 [IntelliRehabDS (IRDS)—A Dataset of Physical Rehabilitation Movements](https://www.mdpi.com/2306-5729/6/5/46)
+
+## Gesture Details:
+![Gesture Details](https://github.com/nsadawi/intellirehabds/raw/master/GestureDetails.png "Gesture Details")
+
+
