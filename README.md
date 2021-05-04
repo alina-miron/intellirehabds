@@ -1,7 +1,11 @@
 To use the EDA.ipynb file, please first edit the configs/config_seamer.py file with the correct path to the dataset.
 
+## Dataset
+
+You can download the dataset from here: https://zenodo.org/record/4610859 . SkeletonData.zip contains a collection of .csv files, each file representing one gesture repetition and it is the input data used in _EDA.ipynb_ 
+
 ## Sample Gesture Data Files
-You can find some sample gesture data files in this folder on google drive (link to the entire dataset is available in the paper): 
+You can find some sample gesture data files in this folder on google drive (the full dataset can be found on Zenodo - link given above): 
 [Sample Gesture Data Files](https://drive.google.com/drive/folders/1Sy7X_XV7g2EYcVnOUyrpYP4QF1d5jpDi?usp=sharing)
 
 ## License and Citation
